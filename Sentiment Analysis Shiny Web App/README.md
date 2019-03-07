@@ -33,8 +33,7 @@ To Install RStudio:
 2. Click on "Download RStudio Desktop."
 3. Click on the version recommended for your system, or the latest Mac version, save the .dmg file on your computer, double-click it to open, and then drag and drop it to your applications folder.
 
-# EXECUTION
-Web App Instructions:
+# Execution - Web App Instructions
 1. Download the CODE folder.
 2. Open server.R and ui.R. 
 3. Ensure you set the working directory to the CODE Folder (this can be done by going to Session at the top and select Set Working Directory).
