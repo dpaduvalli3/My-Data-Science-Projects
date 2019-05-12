@@ -1,2 +1,4 @@
 # Data-Science-Projects
-In this folder I have included data science based projects or applications that I have created. Please click each of the folder to view more information. 
+This folder contains some of my data science based projects or applications. Please feel free to clone this folder for your projects. 
+
+
