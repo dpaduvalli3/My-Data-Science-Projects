@@ -51,6 +51,6 @@ This is a data warehouse application which allows users to read and make changes
 
 - Test the Shiny App: 
 5. Go to CODE and open DataWarehouseApp.r
-6. Set the working directory to the CODE folder. You can do this by going to session>set working directory> choose a directory or edit this code in the r file, setwd("C:\\Users\\Divya\\Desktop\\Spring_2019\\DBMS\\Phase 3\\CODE"). To verify your directory type getwd() in the console below. 
+6. Set the working directory to the CODE folder. You can do this by going to session>set working directory> choose a directory or edit this code in the r file, setwd("C:\\Users\\Divya\\Desktop\\Spring_2019\\Git Hub\\My-Data-Science-Projects\\Sentiment Analysis Shiny Web App\\CODE"). To verify your directory type getwd() in the console below. 
 7. Installation of required packages has been automated. If the packages does not automatically install, please install it mannualy. 
 8. Click on Run App. (You can run the app in R or open in your local browser) 
