@@ -14,8 +14,7 @@ library(dplyr)
 library(dbplyr)
 
 #####Please set the working directory to the code folder before running the app#######################################
-#setwd("/Users/PeterC/Documents/gt/6400/Data_Warehouse_App_Testing/CODE")
-#setwd("/Users/daron/OneDrive/CSE_6400/Data_Warehouse_App_Testing/Phase 3/CODE")
+#setwd("/Users/xxxxx/Documents/Data_Warehouse_App_Testing/CODE")
 
 #These are fields in add/delete settings tabs
 fields <- c("holidaydate", "holidayname")
