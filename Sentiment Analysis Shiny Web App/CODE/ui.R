@@ -31,10 +31,10 @@ word_BarChart <- tidy_amzn %>%
 
 shinyUI(fluidPage(theme = shinytheme("united"),
   navbarPage(
-    "Navigation Bar",
+    "Navigation Menu",
     ######About######
     tabPanel("About",
-      titlePanel(title = "Team 16: Amazon Electronic Product Reviews Sentiment Analysis Web Application"),      
+      titlePanel(title = "Amazon Electronic Product Reviews Sentiment Analysis Web Application"),      
       mainPanel(
         tabsetPanel(type = "tab",
           tabPanel( "Overview", fluidRow(column(12, includeMarkdown("other/project_desc.html")))),
